@@ -6,6 +6,7 @@ This repository contains all **manual testing documentation** for the **OpenCart
 OpenCart-Testing/
 │
 ├── 1_Test Plan/ → Defines objectives, scope, and overall testing approach
+
 ├── 2_Test Scenario/ → Contains high-level scenarios derived from requirements
 ├── 3_Test Case/ → Includes detailed step-by-step test cases and results
 ├── 4_RTM/ → Requirement Traceability Matrix linking test cases to requirements
